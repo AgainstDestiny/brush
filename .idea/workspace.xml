@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67140237-a968-4131-a06c-2eae45485ef2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cf刷枪软件.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,20 +95,20 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="utils" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\19578\IdeaProjects\brush\lib" />
-      <recent name="D:\19578\IdeaProjects\brush\.idea" />
-      <recent name="D:\19578\IdeaProjects\brush_gun\src\controller" />
-      <recent name="D:\19578\IdeaProjects\brush_gun\src\javasource" />
-      <recent name="D:\19578\IdeaProjects\brush_gun\lib" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\19578\IdeaProjects\brush_gun\src" />
       <recent name="D:\19578\IdeaProjects\brush_gun\src\main\java\javasource\image" />
       <recent name="D:\19578\IdeaProjects\brush_gun\src\main\javasource" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\19578\IdeaProjects\brush" />
+      <recent name="D:\19578\IdeaProjects\brush\src" />
+      <recent name="D:\19578\IdeaProjects\brush\lib" />
+      <recent name="D:\19578\IdeaProjects\brush\.idea" />
+      <recent name="D:\19578\IdeaProjects\brush_gun\src\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -373,7 +373,7 @@
       <workItem from="1656989040685" duration="1290000" />
       <workItem from="1657010510922" duration="56000" />
       <workItem from="1657270095961" duration="37000" />
-      <workItem from="1658103831251" duration="2242000" />
+      <workItem from="1658103831251" duration="2811000" />
     </task>
     <servers />
   </component>
