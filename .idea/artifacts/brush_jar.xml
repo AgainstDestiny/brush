@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="brush:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/brush_jar</output-path>
+    <root id="archive" name="brush.jar">
+      <element id="module-output" name="brush" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/substance-6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JTattoo-1.6.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hutool-all-5.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
